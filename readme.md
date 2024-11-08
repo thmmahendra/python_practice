@@ -1,0 +1,2 @@
+Python Projects
+This repository contains all the code examples and projects from the simple Python Projects. Each project is designed to help to understand and sharpen problem-solving skills and reinforce your understanding of Python.
